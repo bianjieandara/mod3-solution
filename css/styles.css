@@ -1,15 +1,30 @@
 * {
-box-sizing: box-border;
+padding: 0;
 margin: 0;
-padding: 0;	
+
+}
+.container-fluid {
+margin: 30px 15px 30px;	
 }
 
+.navbar-nav {
+font-size: 1.1em;
+font-weight: bold;
+
+}
+
+header h2 {
+	margin-top: 30px;
+}
+
+.navbar{
+background-color: #BDBDBD;
+}
 
 #main {
 background-color: #F8E0EC;
 padding: 30px;
 overflow: hidden;
-margin: 15px 20px 20px;
 
 }
 
